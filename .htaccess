@@ -100,7 +100,7 @@ ErrorDocument 404 /error-pages/404/404.html
 # http://serverfault.com/questions/213422/how-to-create-robots-txt-file-for-all-domains-on-apache-server
 RewriteEngine on
 RewriteBase /
-RewriteRule ^robots.txt$ /var/www/mithril/robots.txt [NC,L]
+RewriteRule ^robots.txt$ /var/www/html/robots.txt [NC,L]
 
 RewriteCond %{HTTP_HOST} ^www\.mithril\.online$
 RewriteRule ^/?$ "https\:\/\/mithril\.online\/" [R=301,L]
