@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /.idea
+Disallow: /*.json
+Disallow: /LICENSE
+Disallow: /*.md
+Disallow: /theme-files
