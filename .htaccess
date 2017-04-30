@@ -1,10 +1,10 @@
 #
 # Sources:
-# http://stackoverflow.com/questions/7704624/how-can-i-use-gzip-compression-for-css-and-js-files-on-my-websites
-# http://codex.wordpress.org/Output_Compression
-# http://www.perun.net/2009/06/06/wordpress-websites-beschleuinigen-4-ein-zwischenergebnis/#comment-61086
-# http://www.smashingmagazine.com/smashing-book-1/performance-optimization-for-websites-part-2-of-2/
-# http://gtmetrix.com/configure-entity-tags-etags.html
+# https://stackoverflow.com/questions/7704624/how-can-i-use-gzip-compression-for-css-and-js-files-on-my-websites
+# https://codex.wordpress.org/Output_Compression
+# https://www.perun.net/2009/06/06/wordpress-websites-beschleuinigen-4-ein-zwischenergebnis/#comment-61086
+# https://www.smashingmagazine.com/smashing-book-1/performance-optimization-for-websites-part-2-of-2/
+# https://gtmetrix.com/configure-entity-tags-etags.html
 
 <IfModule mod_deflate.c>
   # Insert filters / compress text, html, javascript, css, xml:
@@ -97,7 +97,7 @@ IndexIgnore *
 
 ErrorDocument 404 /error-pages/404/404.html
 
-# http://serverfault.com/questions/213422/how-to-create-robots-txt-file-for-all-domains-on-apache-server
+# https://serverfault.com/questions/213422/how-to-create-robots-txt-file-for-all-domains-on-apache-server
 RewriteEngine on
 RewriteBase /
 RewriteRule ^robots.txt$ /var/www/html/robots.txt [NC,L]

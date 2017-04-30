@@ -30,7 +30,7 @@ Summary[edit]
 Description	
 English: Icon extracted from [fortawesome.github.com/Font-Awesome/ Font-Awesome]
 Date	
-Source	http://fortawesome.github.com/Font-Awesome/
+Source	https://fortawesome.github.com/Font-Awesome/
 Author	Dave Gandy
 SVG development	
 W3C icon.svg
@@ -40,7 +40,7 @@ This vector image was created with Inkscape, and then manually edited.
 Licensing[edit]
 w:en:Creative Commons
 attribution share alike	This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.	
-Attribution: Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome
+Attribution: Font Awesome by Dave Gandy - https://fortawesome.github.com/Font-Awesome
 You are free:
 to share – to copy, distribute and transmit the work
 to remix – to adapt the work
